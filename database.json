@@ -1,0 +1,8 @@
+{
+"products":["big_macapuno","small_macapuno","big_coco_jam","small_coco_jam","big_ampalaya","small_ampalaya","big_pineapple_jam","small_pineapple_jam"],
+"prices":[300,150,150,70,150,100,150,100],
+"src":["https://www.mediafire.com/view/dv4l6em13r9jcmy/Big_macapuno_logo.JPG","https://www.mediafire.com/view/nseys867kdquayn/Small_macapuno_logo.JPG","https://www.mediafire.com/view/dv4l6em13r9jcmy/Big_macapuno_logo.JPG","","https://www.mediafire.com/view/atwfsfqaw9fx6eh/Big_Ampalaya_logo.jpg","","https://www.mediafire.com/view/vk3cf62yv1sf4gz/Big_Pineapple_Jam_Logo.jpg"],
+"weight":["32oz","12oz","12oz","12oz","","12oz","","12oz",""],
+"stock":[0,0,0,0,0,0,0,0,0],
+"soldout":[true,true,true,true,true,true,true,true,true]
+}
