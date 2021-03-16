@@ -1,3 +1,4 @@
-body > .index {
-  font-family: serif
+body > .index,body > .title-head,nav > .facebook{
+  font-family: sans-serif;
+  color: rgb(0,150,255);
 }
