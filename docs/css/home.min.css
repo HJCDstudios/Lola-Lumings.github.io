@@ -34,6 +34,6 @@ td {
   text-align: center;
 }
 .product-image {
-  height: 300px;
+  width: 100%;
   align: center;
 }
