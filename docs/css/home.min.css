@@ -17,3 +17,16 @@ body {
   padding: 5px;
   border-radius: 20px;
 }
+
+/*
+  Products
+*/
+.product-name {
+  font-family: sans-serif;
+}
+.product-viewer {
+  width: 90%;
+}
+.product-image {
+  height: 100px;
+}
