@@ -4,7 +4,8 @@ body > .index,body > .title-head {
 }
 nav {
   width: 100%;
+  background-color: grey;
   height: 300px;
   overflow: scroll;
-  font-familyf sans-serif;
+  font-family: sans-serif;
 }
