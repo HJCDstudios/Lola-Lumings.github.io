@@ -9,3 +9,6 @@ nav {
   overflow: scroll;
   font-family: sans-serif;
 }
+nav > b {
+  font-family: sans-serif;
+}
