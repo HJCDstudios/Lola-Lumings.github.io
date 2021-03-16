@@ -30,11 +30,10 @@ body {
 .product-view {
   width: 90%;
 }
-.
 td {
   text-align: center;
 }
 .product-image {
-  max-height: 200px;
+  height: 100px;
   width: 100%;
 }
