@@ -21,11 +21,17 @@ body {
 /*
   Products
 */
+.logo {
+  width: 50%;
+}
 .product-name {
   font-family: sans-serif;
 }
 .product-view {
   width: 90%;
+}
+.product-view > td {
+  text-align: center;
 }
 .product-image {
   height: 100px;
